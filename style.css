@@ -9,7 +9,7 @@
 }
 
 :root {
-   --cor0: #c5ebd6;
+   --cor0: #c5ebd6; 
    --cor1: #83e1ad;
    --cor2: #3ddc84;
    --cor3: #2fa866;
@@ -71,7 +71,7 @@ header>p {
    padding-left: 10px;
    margin: auto;
    text-shadow: 2px 2px 0px rgb(0, 0, 0, 0.315);
-   margin-bottom: 20px;
+   padding-bottom: 50px;
 }
 
 nav {
